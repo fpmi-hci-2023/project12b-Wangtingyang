@@ -23,6 +23,10 @@ Repository of [web-application "Поээзия Китая"](https://github.com/f
 
 This is demo project.
 
+# Reports
+
+Please,visit 'reports/' folder to find link on reports.
+
 # Contributing
 
 Author:Wang Tingyang

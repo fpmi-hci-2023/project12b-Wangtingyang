@@ -1,4 +1,4 @@
-# pROJECT rEPORTS
+# Project reports
 
 ## LAB1 REPORT
 
